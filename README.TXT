@@ -1,7 +1,9 @@
+#Multi-hop Training Booking System - Distributed Computing
+
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+This is a simple example of a distributed multi-hop train booking system
+that allows to book multi journey booking while maintaining integrity
+with multiple journey. Built using 2-phase commit middleware concepts.
 ------------------------------------------------------------------------
 
 PROJECT TITLE:Train Booking System
