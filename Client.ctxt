@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ run()
+comment1.params=
+comment1.target=void\ connect2Server()
+comment2.params=
+comment2.target=void\ getIOStreams()
+comment3.params=
+comment3.target=void\ processConnection()
+comment4.params=
+comment4.target=void\ run()
+comment5.params=s
+comment5.target=void\ sendData(java.lang.String)
+comment6.params=
+comment6.target=void\ closeConnection()
+numComments=7
